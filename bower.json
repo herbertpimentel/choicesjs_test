@@ -1,0 +1,9 @@
+{
+  "name": "teste",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "requirejs": "~2.1.11",
+    "choices.js": "~2.3.1"
+  }
+}
